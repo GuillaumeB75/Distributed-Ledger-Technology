@@ -21,6 +21,10 @@ Il a travaillé dans le domaine de l'information. Il est issu de la pensée de l
 En ce qui nous concerne, son ouvrage intitulé _"Pour une vraie concurrence des monnaies"_ publié en 1976 est considéré par certains comme étant une des oeuvre ayant pu influencer certains créateurs de crypto-monnaies telles que le Bitcoin.
 On peut citer par exemple la Banque Centrale Européene qui déclare ainsi, je cite : _"les racines théoriques du Bitcoin peuvent être trouvées dans l'École autrichienne d'économie et ses critiques du système actuel de monnaie fiduciaire"_
 
+Je vous invite d'ailleurs à écouter ce podcast de FranceCulture intitulé _"Bitcoin : la prophétie de Friedrich Hayek"_ :
+
+"https://www.franceculture.fr/player/export-reecouter?content=c28671f4-e5fe-4f81-ad66-81bb2a33f53e"
+
 ## _Avec vos propres recherches et grâce aux compétences acquises en cours pouvez vous expliquer comment une Blockchain crée un lien entre ses différents Blocks?_
 
 Chaque bloc est validé par certains utilisateurs baptisés « mineurs » (en référence aux chercheurs d'or), et sont transmis aux « noeuds » du réseau, c'est-à-dire aux détenteurs du registre, ce registre étant la chaîne de blocs elle-même. Cette dernière est actualisée en permanence.
