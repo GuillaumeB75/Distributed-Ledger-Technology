@@ -12,7 +12,7 @@ Lorsqu'un nouveau nœud souhaite accéder au réseau, il doit se connecter à un
 
 ## _Pouvez vous nommer au moins une personne qui a ou aurait pu influencer directement ou indirectement la création de Bitcoin par ses travaux (une personne qui n'a pas été nommée dans le cours)?_ 
 
-J'aimerai aborder ici le cas de Herr Friedrich Hayek, économiste, penseur politique du XXème siècle, prix nobel d'économie, britannique et originaire d'Autriche.
+J'aimerais aborder ici le cas de Herr Friedrich Hayek, économiste, penseur politique du XXème siècle, prix nobel d'économie, britannique et originaire d'Autriche.
 
 ![Ceci est une image](https://i.pinimg.com/originals/4b/a1/fb/4ba1fb7aae2b9c1ca86bc80a7e3e9380.jpg)
 
@@ -31,7 +31,7 @@ Lorsqu'un noeud crée ou reçoit un nouveau bloc, il l'ajoute à sa copie du reg
 
 ## _Quelle structure de données informatique peut représenter le mieux cette chaine de Block: https://en.wikipedia.org/wiki/List_of_data_structures ?_
 
-On pourrait faire le rapporchement avec la linked list: https://en.wikipedia.org/wiki/Linked_list
+On pourrait faire le rapprochement avec la linked list: https://en.wikipedia.org/wiki/Linked_list
 
 ## _Si je souhaite modifier une transaction de 10 bitcoin que j'ai effectué il y a 6 mois en une transaction de 1 Bitcoin, que dois je modifier dans la Blockchain et que dois je mettre en oeuvre pour que cette modification persiste ?_
 ## _Est ce possible selon vous ?_
